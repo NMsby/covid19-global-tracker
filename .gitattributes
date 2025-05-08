@@ -22,7 +22,7 @@
 *.pdf binary
 
 # Correctly identify Jupyter notebooks as Python
-*.ipynb linguist-language=Python
+# *.ipynb linguist-language=Python
 
 # Exclude HTML files from language statistics
 *.html linguist-vendored=true
